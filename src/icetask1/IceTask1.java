@@ -7,7 +7,7 @@ package icetask1;
 /**
  *
  * @author Samukelisiwe vilakazi
- *         ST10464050
+ *        ST10464050
  */
 public class IceTask1 {
 
