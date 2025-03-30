@@ -14,7 +14,7 @@ import java.util.*;
 public class IceTask2 {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line argument
      */
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
